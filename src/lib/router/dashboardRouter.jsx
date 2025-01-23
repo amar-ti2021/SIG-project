@@ -7,11 +7,11 @@ const dashboardRouter = {
       element: <div>Dashboard Page</div>,
     },
     {
-      path: "/province",
+      path: "province",
       element: <div>Province Page</div>,
     },
     {
-      path: "/regency",
+      path: "regency",
       element: <div>Regency Page</div>,
     },
   ],
