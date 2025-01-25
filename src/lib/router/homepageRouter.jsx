@@ -1,6 +1,8 @@
+import Homepage from "../../page/home/Homepage";
+
 const homepageRouter = {
   path: "/",
-  element: <div>Homepage</div>,
+  element: <Homepage />,
 };
 
 export default homepageRouter;
